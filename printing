@@ -3,6 +3,9 @@ main()
 {
 printf("hello world\n");
 printf("hii")
+printf("thank you");
 
-printf("thank you")
+
+printf("newline-1");
+printf("newline-1");
 }
